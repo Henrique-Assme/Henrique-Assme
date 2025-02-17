@@ -15,8 +15,12 @@ In my professional journey so far, I've proudly served as a full-stack developer
 
 ## 📈 GitHub Stats
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-assme)]
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-assme)
 
+## 📚 Currently Learning
+
+- Deep Reinforcement Learning for Market Making
+- Improving my proficiency in Data Structures and Algorithms for better problem-solving and system design.
 
 # 🌐 Socials and Contact:
 
